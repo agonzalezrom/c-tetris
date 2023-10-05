@@ -1,0 +1,5 @@
+build/
+debug/
+.idea/
+lib/SDL2/
+lib/SDL2_mixer/
